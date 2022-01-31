@@ -1,0 +1,120 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+body{
+    background-color: cornflowerblue;
+    min-width: 320px;
+    max-width: 1018px;
+    margin: auto;
+    
+     
+}
+.nun{
+    background-color: rgb(255, 246, 246);
+    color: white;
+    text-align: center;
+    border-radius: -0px ;
+}
+
+    
+
+h1{
+    
+    background-color: rgb(12, 12, 12);
+    border-radius:0px 0px 10px 10px ;
+    color: white;
+    height: 200px;
+    padding: 30px
+
+}
+h1> p{
+    
+    
+      
+}
+
+    
+
+div{
+    border: 5px solid rgb(26, 4, 4);
+   padding: 10PX;
+   font-size: 2em;
+   color: rgb(245, 239, 237);
+   border-radius: 20px 20px 0px 0px;
+   
+}
+
+nav{
+    font-size: 2em;
+    background-color: peru;
+    text-decoration: 'none';
+    padding: 10px;
+}
+nav >a:hover{
+    background-color: rgb(208, 207, 214);
+    border-radius: 10px;
+    font-weight: bold;
+    color: rgb(4, 102, 53);
+    transition-duration: 1s;
+    
+
+}
+header>p{
+    background-color: white;
+    border-radius: 10px;
+    padding: px;
+    color: rgb(19, 18, 18);
+    border: 'bold';
+    font-size: 3em;
+    
+    
+    
+}
+a.externo::after{
+    color: springgreen;
+    content: '\1F517';
+    
+}
+
+h3{
+    font-size: 2em;
+    background-color: white;
+    color: rgb(238, 114, 13);
+    text-align: center;
+    padding: 10px;
+
+}
+main{
+    border-radius: 30px;
+    background-color:rgb(83, 104, 221);
+    
+
+    
+    
+    
+   
+}
+.cel{
+    color: rgb(209, 12, 12);
+
+}
+
+footer>p{
+    font-size: 2em;
+    font-weight: bold;
+    color: white
+   
+}
+
+    
+
+
+
+
