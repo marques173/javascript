@@ -78,7 +78,7 @@ header>p{
     
 }
 a.externo::after{
-    color: springgreen;
+    background-color: rgba(230, 14, 14, 0.795);
     content: '\1F517';
     
 }
@@ -95,10 +95,6 @@ main{
     border-radius: 30px;
     background-color:rgb(83, 104, 221);
     
-
-    
-    
-    
    
 }
 .cel{
@@ -106,7 +102,9 @@ main{
 
 }
 
+
 footer>p{
+    
     font-size: 2em;
     font-weight: bold;
     color: white
